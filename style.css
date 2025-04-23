@@ -1,0 +1,23 @@
+*{margin: 0%;}
+table{width: 100%;
+height: 100%;
+border-collapse: collapse;
+background-color: rgb(187 187 187);}
+td{border: solid black;}
+.l1{height: 185px; background-color: yellow;}
+.l2{height: 215px; background-color: purple;}
+.l3{height: 255px; background-color: orange;}
+.l4{height: 60px; background-color: yellow;}
+.l5{height: 60px; background-color: purple;}
+.l6{height: 155px; background-color: orange;}
+.image{text-align: center; background-color: orange;}
+.image1{vertical-align: top; text-align: center; background-color: orange;}
+.a{width: 20%;}
+.aa{width: 250px; background-color: orange;}
+.aaa{width: 70px;}
+.logo{width: 25%; text-align: right;}
+.text{ font-size: 20px; padding: 2%;width: 20%; text-align: justify; background-color: orange; }
+.roxo{background-color: purple;}
+.amarelo{background-color: yellow;}
+.laranja{background-color: orange;}
+
